@@ -1,0 +1,10 @@
+Job Board: LinkedIn
+Company: 
+Hiring Manager: Hiring Manager
+Role: Software Engineer
+Custom Paragraph: From Machine Learning Projects to Web Applications, I am passionate about developing solutions that bring value to the user.
+
+--------------------------------------
+Form Complete, Initializing Google API
+Initializing Coverletter Generator
+Generating Template Copy

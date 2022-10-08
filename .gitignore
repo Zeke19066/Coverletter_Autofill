@@ -1,0 +1,5 @@
+#Files/Folders to ignore; must terminate in "/"
+
+credentials/
+token_docs/
+token_drive/
