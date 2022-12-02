@@ -1,10 +1,19 @@
 Job Board: LinkedIn
-Company: 
+Company: Chartboost
 Hiring Manager: Hiring Manager
-Role: Software Engineer
-Custom Paragraph: From Machine Learning Projects to Web Applications, I am passionate about developing solutions that bring value to the user.
+Role: Data Scientist
+Custom Paragraph: From Machine Learning Models to Web Applications, I am passionate about developing solutions that bring value to the client.
 
 --------------------------------------
 Form Complete, Initializing Google API
 Initializing Coverletter Generator
-Generating Template Copy
+Generating Template CopyComplete
+Generating Task List
+Begin Scrubber
+Scrubber Complete
+Processing Task List
+Edits Submitted
+Download 100.
+Download Complete
+Delete Completed 
+Task Complete

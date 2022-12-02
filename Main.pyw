@@ -1,3 +1,6 @@
+# https://www.linkedin.com/in/eze-abadie
+# https://github.com/Zeke19066
+
 #System
 import json
 import io
@@ -52,7 +55,6 @@ https://stackoverflow.com/questions/1689015/run-python-script-without-windows-co
 if your Python files end with .pyw instead of .py, the
 standard Windows installer will set up associations
 correctly and run your Python in pythonw.exe.
-
 """
 
 class Window(qtw.QDialog):
@@ -67,8 +69,8 @@ class Window(qtw.QDialog):
                 "##CUSTOM_PARAGRAPH##\n":"",
                 "##DATE##\n":""
                 }
-        p1 = "From Machine Learning Projects to Web Applications, "
-        p2 = "I am passionate about developing solutions that bring value to the user."
+        p1 = "From Machine Learning Models to Web Applications, "
+        p2 = "I am passionate about developing solutions that bring value to the client."
         self.default_paragraph = p1 + p2
         self.targets["##CUSTOM_PARAGRAPH##\n"] = self.default_paragraph
         self.targets_template = self.targets.copy()
@@ -697,13 +699,15 @@ def API_Troubleshooting_Main():
     docs.api_main(targets)
 
 if __name__ == "__main__":
-	# create pyqt5 app
-	app = qtw.QApplication(sys.argv)
+    # create pyqt5 app
+    app = qtw.QApplication(sys.argv)
 
 	# create the instance of our Window
-	window = Window()
+    window = Window()
 
 	# showing the window
-	window.show()
+    window.show()
 
-	sys.exit(app.exec())
+    input("press close to exit")
+    sys.exit(app.exec())
+
