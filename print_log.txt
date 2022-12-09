@@ -1,7 +1,7 @@
 Job Board: LinkedIn
-Company: Chartboost
+Company: Alloy Automation
 Hiring Manager: Hiring Manager
-Role: Data Scientist
+Role: Full Stack Engineer
 Custom Paragraph: From Machine Learning Models to Web Applications, I am passionate about developing solutions that bring value to the client.
 
 --------------------------------------
